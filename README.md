@@ -7,5 +7,5 @@ Table of Contents
 
   * [Project writeup](writeup.md)
   * [Project output video](projectvideo_output.mp4)
-  * [Project notebook export as HTML](Submission-code.html)
-  * [Project notebook](Submission-code.ipynb)
+  * [Project notebook export as HTML](Submission%20code.html)
+  * [Project notebook](Submission%20code.ipynb)
